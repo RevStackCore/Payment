@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <PackageId>RevStackCore.Payment</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>David Sheets</Authors>
+    <Description>RevStack Core Payment class library.</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <Copyright>Copyright 2017 (c) MIS Interactive. All rights reserved.</Copyright>
+    <PackageTags>RevStack Core Payment</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RevStackCore.Pattern" Version="1.0.5" />
+  </ItemGroup>
+
+</Project>

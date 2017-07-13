@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RevStackCore.Payment</id>
+    <version>1.0.0</version>
+    <title>RevStackCore.Payment</title>
+    <authors>David Sheets</authors>
+    <owners>David Sheets</owners>
+    <licenseUrl>https://github.com/RevStackCore/Payment/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RevStackCore/Payment.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RevStack Core Payment class library.</description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>RevStack Core Payment</tags>
+  </metadata>
+</package>

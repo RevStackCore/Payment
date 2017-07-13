@@ -1,0 +1,7 @@
+C:\Dev\RevStackCore\Payment\RevStackCore.Payment\bin\Debug\netstandard1.4\RevStackCore.Payment.deps.json
+C:\Dev\RevStackCore\Payment\RevStackCore.Payment\bin\Debug\netstandard1.4\RevStackCore.Payment.dll
+C:\Dev\RevStackCore\Payment\RevStackCore.Payment\bin\Debug\netstandard1.4\RevStackCore.Payment.pdb
+C:\Dev\RevStackCore\Payment\RevStackCore.Payment\obj\Debug\netstandard1.4\RevStackCore.Payment.csprojResolveAssemblyReference.cache
+C:\Dev\RevStackCore\Payment\RevStackCore.Payment\obj\Debug\netstandard1.4\RevStackCore.Payment.AssemblyInfo.cs
+C:\Dev\RevStackCore\Payment\RevStackCore.Payment\obj\Debug\netstandard1.4\RevStackCore.Payment.dll
+C:\Dev\RevStackCore\Payment\RevStackCore.Payment\obj\Debug\netstandard1.4\RevStackCore.Payment.pdb
